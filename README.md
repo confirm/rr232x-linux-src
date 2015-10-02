@@ -27,7 +27,7 @@ Clone git repo:
 
 ```bash
 cd /usr/src
-git clone https://github.com/confirm-it-solutions/rr232x-linux-src.git
+git clone https://github.com/confirm/rr232x-linux-src.git
 ```
 
 CD into patched directory and compile driver:
